@@ -59,6 +59,7 @@ main p {
   width: 30rem;
   max-width: 80%;
   margin: 0 auto 1rem;
+  text-align: justify;
 }
 
 .social {
